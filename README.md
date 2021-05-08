@@ -12,7 +12,7 @@ leetcdoe 刷题记录
 | 5     | 只出现一次的数字       | [Java](https://github.com/dingyx/leetcode/blob/main/array/005/Solution.java) | Easy       |
 | 6     | 两个数组的交集\|\|     | [Java](https://github.com/dingyx/leetcode/blob/main/array/006/Solution.java) | Easy       |
 | 7     | 加一                   | [Java](https://github.com/dingyx/leetcode/blob/main/array/007/Solution.java) | Easy       |
-| 8     | 移动零                 |                                                              |            |
+| 8     | 移动零                 | [Java](https://github.com/dingyx/leetcode/blob/main/array/008/Solution.java) | Easy       |
 | 9     | 两数之和               |                                                              |            |
 | 10    | 有效的数独             |                                                              |            |
 | 11    | 旋转图像               |                                                              |            |
