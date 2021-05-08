@@ -13,6 +13,6 @@ leetcdoe 刷题记录
 | 6     | 两个数组的交集\|\|     | [Java](https://github.com/dingyx/leetcode/blob/main/array/006/Solution.java) | Easy       |
 | 7     | 加一                   | [Java](https://github.com/dingyx/leetcode/blob/main/array/007/Solution.java) | Easy       |
 | 8     | 移动零                 | [Java](https://github.com/dingyx/leetcode/blob/main/array/008/Solution.java) | Easy       |
-| 9     | 两数之和               |                                                              |            |
+| 9     | 两数之和               | [Java](https://github.com/dingyx/leetcode/blob/main/array/009/Solution.java) | Easy       |
 | 10    | 有效的数独             |                                                              |            |
 | 11    | 旋转图像               |                                                              |            |
