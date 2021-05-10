@@ -14,5 +14,5 @@ leetcdoe 刷题记录
 | 7     | 加一                   | [Java](https://github.com/dingyx/leetcode/blob/main/array/007/Solution.java) | Easy       |
 | 8     | 移动零                 | [Java](https://github.com/dingyx/leetcode/blob/main/array/008/Solution.java) | Easy       |
 | 9     | 两数之和               | [Java](https://github.com/dingyx/leetcode/blob/main/array/009/Solution.java) | Easy       |
-| 10    | 有效的数独             |                                                              |            |
+| 10    | 有效的数独             | [Java](https://github.com/dingyx/leetcode/blob/main/array/010/Solution.java) | Medium     |
 | 11    | 旋转图像               |                                                              |            |
