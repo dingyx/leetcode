@@ -15,4 +15,13 @@ leetcdoe 刷题记录
 | 8     | 移动零                 | [Java](https://github.com/dingyx/leetcode/blob/main/array/008/Solution.java) | Easy       |
 | 9     | 两数之和               | [Java](https://github.com/dingyx/leetcode/blob/main/array/009/Solution.java) | Easy       |
 | 10    | 有效的数独             | [Java](https://github.com/dingyx/leetcode/blob/main/array/010/Solution.java) | Medium     |
-| 11    | 旋转图像               |                                                              |            |
+| 11    | 旋转图像               | [Java](https://github.com/dingyx/leetcode/blob/main/array/011/Solution.java) | Medium     |
+
+
+
+* 字符串
+
+| index | title      | code                                                         | Difficulty |
+| ----- | ---------- | ------------------------------------------------------------ | ---------- |
+| 1     | 反转字符串 | [Java](https://github.com/dingyx/leetcode/blob/main/string/001/Solution.java) | Easy       |
+
