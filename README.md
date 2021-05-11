@@ -31,5 +31,5 @@ leetcdoe 刷题记录
 | 6     | 字符串转换整(atoi)       | [Java](https://github.com/dingyx/leetcode/blob/main/string/006/Solution.java) | Medium     |
 | 7     | 实现 strStr()            | [Java](https://github.com/dingyx/leetcode/blob/main/string/007/Solution.java) | Easy       |
 | 8     | 外观数列                 |                                                              |            |
-| 9     | 最长公共前缀             |                                                              |            |
+| 9     | 最长公共前缀             | [Java](https://github.com/dingyx/leetcode/blob/main/string/009/Solution.java) | Easy       |
 
