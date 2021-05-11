@@ -21,7 +21,15 @@ leetcdoe 刷题记录
 
 * 字符串
 
-| index | title      | code                                                         | Difficulty |
-| ----- | ---------- | ------------------------------------------------------------ | ---------- |
-| 1     | 反转字符串 | [Java](https://github.com/dingyx/leetcode/blob/main/string/001/Solution.java) | Easy       |
+| index | title                    | code                                                         | Difficulty |
+| ----- | ------------------------ | ------------------------------------------------------------ | ---------- |
+| 1     | 反转字符串               | [Java](https://github.com/dingyx/leetcode/blob/main/string/001/Solution.java) | Easy       |
+| 2     | 整数反转                 | [Java](https://github.com/dingyx/leetcode/blob/main/string/002/Solution.java) | Easy       |
+| 3     | 字符串中的第一个唯一字符 | [Java](https://github.com/dingyx/leetcode/blob/main/string/003/Solution.java) | Easy       |
+| 4     | 有效的字母异位词         | [Java](https://github.com/dingyx/leetcode/blob/main/string/004/Solution.java) | Easy       |
+| 5     | 验证回文串               | [Java](https://github.com/dingyx/leetcode/blob/main/string/005/Solution.java) | Easy       |
+| 6     | 字符串转换整(atoi)       |                                                              |            |
+| 7     | 实现 strStr()            |                                                              |            |
+| 8     | 外观数列                 |                                                              |            |
+| 9     | 最长公共前缀             |                                                              |            |
 
