@@ -28,8 +28,8 @@ leetcdoe 刷题记录
 | 3     | 字符串中的第一个唯一字符 | [Java](https://github.com/dingyx/leetcode/blob/main/string/003/Solution.java) | Easy       |
 | 4     | 有效的字母异位词         | [Java](https://github.com/dingyx/leetcode/blob/main/string/004/Solution.java) | Easy       |
 | 5     | 验证回文串               | [Java](https://github.com/dingyx/leetcode/blob/main/string/005/Solution.java) | Easy       |
-| 6     | 字符串转换整(atoi)       |                                                              |            |
-| 7     | 实现 strStr()            |                                                              |            |
+| 6     | 字符串转换整(atoi)       | [Java](https://github.com/dingyx/leetcode/blob/main/string/006/Solution.java) | Medium     |
+| 7     | 实现 strStr()            | [Java](https://github.com/dingyx/leetcode/blob/main/string/007/Solution.java) | Easy       |
 | 8     | 外观数列                 |                                                              |            |
 | 9     | 最长公共前缀             |                                                              |            |
 
