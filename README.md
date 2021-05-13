@@ -30,6 +30,19 @@ leetcdoe 刷题记录
 | 5     | 验证回文串               | [Java](https://github.com/dingyx/leetcode/blob/main/string/005/Solution.java) | Easy       |
 | 6     | 字符串转换整(atoi)       | [Java](https://github.com/dingyx/leetcode/blob/main/string/006/Solution.java) | Medium     |
 | 7     | 实现 strStr()            | [Java](https://github.com/dingyx/leetcode/blob/main/string/007/Solution.java) | Easy       |
-| 8     | 外观数列                 |                                                              |            |
+| 8     | 外观数列                 | [Java](https://github.com/dingyx/leetcode/blob/main/string/008/Solution.java) | Easy       |
 | 9     | 最长公共前缀             | [Java](https://github.com/dingyx/leetcode/blob/main/string/009/Solution.java) | Easy       |
+
+
+
+* 链表
+
+| index | title                   | code                                                         | Difficulty |
+| ----- | ----------------------- | ------------------------------------------------------------ | ---------- |
+| 1     | 删除链表中的节点        | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/001/Solution.java) | Easy       |
+| 2     | 删除链表的倒数第N个节点 | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/002/Solution.java) | Easy       |
+|       |                         |                                                              |            |
+|       |                         |                                                              |            |
+|       |                         |                                                              |            |
+|       |                         |                                                              |            |
 
