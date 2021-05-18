@@ -42,7 +42,7 @@ leetcdoe 刷题记录
 | 1     | 删除链表中的节点        | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/001/Solution.java) | Easy       |
 | 2     | 删除链表的倒数第N个节点 | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/002/Solution.java) | Medium     |
 | 3     | 反转链表                | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/003/Solution.java) | Easy       |
-|       |                         |                                                              |            |
-|       |                         |                                                              |            |
-|       |                         |                                                              |            |
+| 4     | 合并两个有序链表        | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/004/Solution.java) | Easy       |
+| 5     | 回文链表                | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/005/Solution.java) | Easy       |
+| 6     | 环形链表                | [Java](https://github.com/dingyx/leetcode/blob/main/linked-list/006/Solution.java) | Easy       |
 
