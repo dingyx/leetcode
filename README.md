@@ -53,5 +53,4 @@ leetcdoe 刷题记录
 | index | title            | code                                                         | difficlty |
 | ----- | ---------------- | ------------------------------------------------------------ | --------- |
 | 1     | 二叉树的最大深度 | [Java](https://github.com/dingyx/leetcode/blob/main/tree/001/Solution.java) | Easy      |
-|       |                  |                                                              |           |
 
